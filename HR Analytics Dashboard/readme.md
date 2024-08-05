@@ -1,5 +1,6 @@
+### HR Data Analytics portfolio project that deals with HR KPIs like Performance tracking, attrition rate. Project involved cleaning, transforming data and visualizing it to create a dashboard. I have used the MS Excel and Power BI's Query Editor for data cleaning and preprocessing and dashboard.
 
-# Here are some basic points after understanding the HR Analytics Dashboard:  
+## Here are some basic points after understanding the HR Analytics Dashboard:  
 
 ### Overall Attrition:
 - Total Employees: 1470
@@ -34,3 +35,5 @@ Job Satisfaction: Address the concerns of Research Scientists and Sales Executiv
 
 
 #### Image of the Dashboard: [Image](https://github.com/parjun585/Visualization-Projects-/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.png).
+
+HR Data Analytics portfolio project that deals with HR KPIs like Performance tracking, attrition rate. Project involved cleaning, transforming data and visualizing it to create a dashboard. I have used the MS Excel and Power BI's Query Editor for data cleaning and preprocessing and dashboard.
