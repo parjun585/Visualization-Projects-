@@ -31,3 +31,6 @@ Research & Development: Investigate reasons for high attrition in this departmen
 Salary: Analyze salary structures and consider salary adjustments for key roles and high-performing employees.
 Employee Development: Offer targeted development programs for employees with 1-5 years experience.
 Job Satisfaction: Address the concerns of Research Scientists and Sales Executives regarding job satisfaction.
+
+
+#### Image of the Dashboard: [Image](https://github.com/parjun585/Visualization-Projects-/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.png).
