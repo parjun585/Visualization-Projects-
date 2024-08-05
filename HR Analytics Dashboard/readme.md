@@ -1,5 +1,5 @@
 
-#Here are some basic points after understanding the HR Analytics Dashboard:  
+# Here are some basic points after understanding the HR Analytics Dashboard:  
 
 ### Overall Attrition:
 - Total Employees: 1470
