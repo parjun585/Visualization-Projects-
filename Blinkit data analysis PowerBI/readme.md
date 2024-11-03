@@ -23,10 +23,10 @@ The motivation behind this project is to gain insights into grocery purchasing p
 
 ## Installation
 1. **Clone the repository**:
-   \`\`\`bash
+   ```
    git clone https://github.com/parjun585/Visualization-Projects-/tree/main/Blinkit%20data%20analysis%20PowerBI
    cd Visualization-Projects-/Blinkit\ data\ analysis\ PowerBI
-   \`\`\`
+   ```
 
 2. **Open the Power BI file**:
    - Download [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you haven't already.
